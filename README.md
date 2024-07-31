@@ -58,7 +58,7 @@ LinkedIn: https://www.linkedin.com/in/manishlinkedin/
 Upwork: https://www.upwork.com/fl/manishpatel2280 
 
 GitHub:
-https://github.com/mpatel2280
+https://github.com/mpatel2280?tab=repositories
 
 DockerHub:
 https://hub.docker.com/repositories/patelm2280
