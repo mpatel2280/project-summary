@@ -2,7 +2,7 @@
 
 Please find project summary as below.
 
-Upwork:
+# Upwork:
 
 * Technical Hiring Consultant for Overseas Group (Hong kong)
 
@@ -19,7 +19,7 @@ Upwork:
 * https://vendor.sourceii.com/ (AngularJS 1.6, Ruby on Rails)
 
 
-Full-time Employment:
+# Full-time Employment:
 
 * WoltersKluwer - Nursing Education - (PHP 7.4/8, Symfony, Angular 8, Python, MySQL, AWS Glue, SQS, Redis, GIT, Jenkins, Docker)
 
@@ -53,12 +53,14 @@ Docker, RabbitMQ)
 * https://www.bigadda.in/ (PHP, MySQL)
 
 LinkedIn: https://www.linkedin.com/in/manishlinkedin/
+
 Upwork: https://www.upwork.com/fl/manishpatel2280 
+
 GitHub:
 https://github.com/mpatel2280
 
 DockerHub:
 https://hub.docker.com/repositories/patelm2280
 
-* ...
+
 # project-summary
