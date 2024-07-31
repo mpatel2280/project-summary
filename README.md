@@ -7,6 +7,8 @@ Please find project summary as below.
 
 * Technical Hiring Consultant for Overseas Group (Hong kong)
 
+* Experienced Technical Manager for BigToe (USA)
+
 * https://freemansperspective.com/ (WordPress, THESIS, Wishlist)
 
 * http://aantonop.com (WordPress - Elementor)
