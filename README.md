@@ -64,8 +64,6 @@ Git, PhpDocs, PhpUnit)
 
 LinkedIn: https://www.linkedin.com/in/manishlinkedin/
 
-Upwork: https://www.upwork.com/freelancers/manishpatel2280
-
 GitHub:
 https://github.com/mpatel2280?tab=repositories
 
