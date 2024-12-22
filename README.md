@@ -43,7 +43,7 @@ ExpressJS, Elastic Search, Redis, MySQL, GIT, RabbitMQ)
 
 * https://connect.trimble.com/ - (AngularJS 1.4, Dojo, Java)
 
-* https://imeetcentral.com/ (BackboneJS, PHP 5.3, PostGreSQL)
+* https://imeetcentral.com/ (BackboneJS, PHP 5.3, PostGreSQL, Ruby on Rails, SideKiq)
 
 * Glam Media (Ruby on Rails, PHP 5.3, Zend 1.10, YUI, R3, MySQL 5.0, Apache 2.0,
 Git, PhpDocs, PhpUnit)
